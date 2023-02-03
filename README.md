@@ -1,2 +1,2 @@
-# Odev-3
+# Ödev-3
 HTML dersi içerisindeki 3. ödev
